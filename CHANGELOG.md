@@ -1,5 +1,17 @@
 # ts-essentials
 
+## 9.2.0
+
+### Minor Changes
+
+- fa03dda: Add `StrictExclude`, a stricter version of `Exclude`
+- 6b27ee4: Add `MarkWritable` which unsets readonly for specified keys
+- e76a08a: Add `MarkReadonly` which sets readonly for specific keys
+
+### Patch Changes
+
+- 13504d0: Fix `DeepPartial` for normal arrays
+
 ## 9.1.2
 
 ### Patch Changes
